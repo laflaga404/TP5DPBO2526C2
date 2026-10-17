@@ -13,7 +13,7 @@ Untuk desain program ini aku menggunakan tema **Manajemen Data Personel**. Data 
 2. **Database Handler (`Database.java`)** Menghubungkan aplikasi ke database MySQL `db_people` melalui JDBC. Method `selectQuery(sql)` digunakan untuk membaca data, sedangkan `insertUpdateDeleteQuery(sql)` digunakan untuk menambah, mengubah, dan menghapus data.
 3. **View & Controller (`PeopleMenu.java` dan `PeopleMenu.form`)** Mengatur GUI menggunakan Java Swing, termasuk form input, pilihan pangkat dan status, tabel data, serta tombol Add, Update, Delete, dan Cancel. Kelas ini juga menangani validasi input dan aksi pengguna.
 
-𑣲⋆ **Alur Program**
+**Alur Program**
 
 1. **Inisialisasi aplikasi:** Program membuka jendela `PeopleMenu` dan membuat koneksi ke database MySQL `db_people`.
 2. **Menampilkan data (Read):** Data dari tabel `person` diambil menggunakan query `SELECT`, lalu ditampilkan pada `JTable` ketika aplikasi dibuka.
