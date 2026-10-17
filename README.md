@@ -46,7 +46,7 @@ Seluruh screenshot disimpan di folder `dokumentasi/`.
 
 ![Error tahun lahir](dokumentasi/errortahunlahir.png)
 
-**6. Mengubah data personel**
+**6. Mengubah data personel, dari joko widodo jadi joko bapakgibran**
 
 ![Contoh perubahan data personel](dokumentasi/update%20nama%20joko%20widodo%20jadi%20joko%20bapakgibran.png)
 
